@@ -3,6 +3,11 @@
 docker-compose.yml can be found in the .devcontainer folder 
 To set up PostgreSQL and Adminer run the command 'docker compose up -d' within .devcontainer folder
 
+
+![F212A4EE-7A2F-4E63-9D57-FD69AD7116FA_1_105_c](https://user-images.githubusercontent.com/97709792/164700801-ca851cad-58bc-41e4-a797-26b04bda5678.jpeg)
+
+
+
 Design Schema
 ---
 
